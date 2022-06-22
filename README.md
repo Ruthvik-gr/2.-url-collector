@@ -1,0 +1,1 @@
+This URL COLLECTOR extension is specially created for the folks who surf via the internet lots and want to save the URLs to use in a while URL Collector saves the URL of the currently opened tab and saves it. you may additionally paste the URL within the space given above and use that and you will locate all of the saved urls below.
